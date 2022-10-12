@@ -1,0 +1,44 @@
+body {
+  font-family: "Roboto Mono", monospace, bold;
+  min-height: 400px;
+  background-image: url("https://www.portugalmistico.com/wp-content/uploads/2019/03/her12.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #00ff00;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  font-family: "Roboto Mono", monospace, bold;
+  color: #00ff00;
+  margin-top: 52px;
+}
+input {
+  margin: 4px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #00ff00;
+}
+
+.resultado {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 16px;
+}
