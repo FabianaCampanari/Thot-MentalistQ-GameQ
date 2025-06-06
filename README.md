@@ -27,7 +27,7 @@ Let me know if you’d like it in a more formal, poetic, or academic tone.
 
 ### [Thot - The ThrutQ](https://thoth3126.com.br/)
 
-https://www.timboucher.ca/?s=quatria
+### Quatria Conspiracy - But Is Not....](https://www.timboucher.ca/?s=quatria)
 
 ### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
 
