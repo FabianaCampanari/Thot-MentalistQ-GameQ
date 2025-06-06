@@ -4,11 +4,11 @@
 
 
 # <p align="center"> 🧬  ReadyQ for TheQ TrueQ ?  
-### PlayQ The GameQ ! 
+### <p align="center"> PlayQ The GameQ ! 
 
 <br>
 
-### <p align="center">Try to Guess the Number with Thot - Hermes Trismegistus - Arelich Vomalich
+### <p align="center"> Try to Guess the Number with Thot - Hermes Trismegistus - Arelich Vomalich
 
 <br>
 
