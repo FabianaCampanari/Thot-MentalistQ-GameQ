@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Here is the English translation:
+
 
 #
 
