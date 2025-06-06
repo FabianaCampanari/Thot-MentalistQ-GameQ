@@ -1,6 +1,6 @@
 
 
-# Mentalist Game
+# Thot - Guessing Game
 
 ### Try to Guess the Number with Thot - Hermes Trosmegistus
 
