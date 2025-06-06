@@ -2,7 +2,7 @@
 <br>
 
 
-## ReadyQ for TheQ TrueQ ? 
+## ReadyQ for TheQ TrueQ ? PlayQ The GameQ !
 
 ### Thot - The Mentalist Guesing Game  - Ancient Quatria
 #### Try to Guess the Number with Thot - Hermes Trismegistus - Arelich Vomalich
