@@ -20,7 +20,7 @@
 </p>
 
 
-### [⚚](https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/)  
+### <p align="center"> [⚚](https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/)  
 
 
 
