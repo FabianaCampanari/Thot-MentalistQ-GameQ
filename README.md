@@ -3,7 +3,7 @@
 
 
 
-## <p align="center"> 🧬  ReadyQ for TheQ TrueQ ?  
+# <p align="center"> 🧬  ReadyQ for TheQ TrueQ ?  
 ### PlayQ The GameQ ! 
 
 <br>
