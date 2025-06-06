@@ -44,14 +44,16 @@
 
 ### [Quatria Conspiracy - But Is Not....](https://www.timboucher.ca/?s=quatria)
 
+
+<br>
+
+### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
+
 <br>
 
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/e2e15e61-e380-4414-beba-713c161c882d" />
 
-<br>
-
-### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
 
 <br><br>
 
