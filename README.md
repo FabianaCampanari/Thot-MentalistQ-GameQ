@@ -8,4 +8,4 @@
 
 https://thoth3126.com.br/
 
-### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ] https://lostbooks.gumroad.com/l/quatria-conspiracy
+### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
