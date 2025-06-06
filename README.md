@@ -44,6 +44,8 @@
 
 ### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
 
+### [The Real Story Behind the Knights Templar (XI0)](https://thoth3126.com.br/a-real-historia-por-tras-dos-cavaleiros-templarios-xi/)
+
 
 <br><br>
 
