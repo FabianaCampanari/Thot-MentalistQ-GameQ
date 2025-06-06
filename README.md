@@ -1,6 +1,6 @@
 
 
-# Thot - The Mentlist - Ancient Quatria
+# Thot - The Mentlist Guesing Game  - Ancient Quatria
 
 ### Try to Guess the Number with Thot - Hermes Trosmegistus
 
