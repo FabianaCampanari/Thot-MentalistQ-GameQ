@@ -2,7 +2,7 @@
 <br>
 
 
-# ReadyQ for TheQ TrueQ ? PlayQ The GameQ !
+# 🧬 ReadyQ for TheQ TrueQ ? PlayQ The GameQ !
 
 ### Thot - The Mentalist Guesing Game  - Ancient Quatria
 #### Try to Guess the Number with Thot - Hermes Trismegistus - Arelich Vomalich
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://fabianacampanari.github.io/The-Mentalist/">
+  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/">
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/269a.png?v8" width="64" height="64" alt="⚚">
   </a>
 </p>
