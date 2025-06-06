@@ -23,7 +23,7 @@ Here is the English translation:
 Let me know if you’d like it in a more formal, poetic, or academic tone.
 
 
-### [⚚](https://fabianacampanari.github.io/The-Mentalist/)  
+### [⚚](https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/)  
 
 ### [Thot - The ThrutQ](https://thoth3126.com.br/)
 
