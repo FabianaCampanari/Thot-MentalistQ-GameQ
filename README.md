@@ -1,8 +1,9 @@
 
+<br>
+
 
 # Thot - The Mentalist Guesing Game  - Ancient Quatria
-
-### Try to Guess the Number with Thot - Hermes Trosmegistus
+### Try to Guess the Number with Thot - Hermes Trismegistus - Arelich Vomalich
 
 
 
