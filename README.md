@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://fabianacampanari.github.io/The-Mentalist/" target="_blank" style="text-decoration: none;">
+  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" target="_blank" style="text-decoration: none;">
     <span style="font-size: 200 px;">⚚</span>
   </a>
 </p>
