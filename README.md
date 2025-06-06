@@ -6,6 +6,6 @@
 
 ### [⚚](https://fabianacampanari.github.io/The-Mentalist/)  
 
-https://thoth3126.com.br/
+[Thot - The ThrutQ](https://thoth3126.com.br/)
 
 ### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
