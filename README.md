@@ -8,12 +8,16 @@
 #### Try to Guess the Number with Thot - Hermes Trismegistus - Arelich Vomalich
 
 
-
 <p align="center">
-  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" target="_blank" style="text-decoration: none;">
-    <span style="font-size: 200 px;">⚚</span>
-  </a>
+  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/"> <h1>⚚</h1> </a>
 </p>
+
+
+
+### [⚚](https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/)  
+
+
+
 
 
 
@@ -25,8 +29,6 @@
 
 Let me know if you’d like it in a more formal, poetic, or academic tone.
 
-
-### [⚚](https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/)  
 
 ### [Thot - The ThrutQ](https://thoth3126.com.br/)
 
