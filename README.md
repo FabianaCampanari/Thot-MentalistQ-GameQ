@@ -31,7 +31,6 @@
 
 
 
-
 [Thoth]() has not only been compared to [Hermes](). In fact, the Hermes referred to in [Hermeticism]() has been compared to important figures (Masters) from various cultures. Thus, the deeds of Thoth are attributed to different names of deities and sacred beings from different civilizations. In [Egyptian]() civilization, he was [Thoth](); in [Greek](), [Hermes](); in [Roman](), [Mercury](); in the [Mayan]() culture, [Quetzalcoatl](); and in [ATLANTIS](), he was [***Chiquitet Arelich Vomalich*** - The Anunak Geneticist Beside Enki](). The Sumerians and other peoples of ancient Mesopotamia also worshiped lunar deities that were virtually identical to Thoth.
 
 
@@ -43,6 +42,14 @@
 <br>
 
 ### [Quatria Conspiracy - But Is Not....](https://www.timboucher.ca/?s=quatria)
+
+
+<br><br>
+
+
+https://github.com/user-attachments/assets/875fa917-0aed-469f-93c4-45d3bfd1e16e
+
+<br>
 
 
 <br>
@@ -69,7 +76,4 @@
 <br>
 
 
-<br><br>
 
-
-https://github.com/user-attachments/assets/875fa917-0aed-469f-93c4-45d3bfd1e16e
