@@ -3,12 +3,13 @@
 
 
 
-# <p align="center">   READY F[Q]()R  🧬 THE  TRUTH ?  
+# <p align="center">  🧬  READY F[Q]()R  THE  TRUTH ?  
+
 ### <p align="center"> COME T[Q]() PLAY THE GAME ! 
 
 <br>
 
-### <p align="center"> Try to Guess the Number with Thot - Hermes Trismegistus - Arelich Vomalich ⚚⚚
+### <p align="center"> Try to Guess the Number with Thot ⚚ Hermes Trismegistus ⚚ Arelich Vomalich ⚚
 
 <br>
 
