@@ -36,6 +36,8 @@
 
 <b>
 
+## [CONTACT THOT Cclicando aqui - ](https://thoth3126.com.br/)
+
 #### [Main Roles of Thoth]():
 
 - Inventor of hieroglyphs (Egyptian writing)
@@ -74,9 +76,10 @@ Enki is a major deity from Sumerian mythology, often associated with wisdom, wat
 
 
 
-
+<!--
 Enlil (Set):
 Enlil is another key figure in Sumerian myth, representing authority, the wind, and storms. He is often equated with the Egyptian god Set, a complex deity associated with chaos, desert storms, and conflict. Enlil embodies power, command, and sometimes destruction, acting as the god who enforces divine order but can also be a force of disruption. His role often contrasts with that of Enki, highlighting the balance between order and chaos, creation and destruction in mythology.
+-->
 
 
 
@@ -85,7 +88,6 @@ Enlil is another key figure in Sumerian myth, representing authority, the wind, 
 
 
 
-### [Thot - The ThrutQ](https://thoth3126.com.br/)
 
 <br>
 
