@@ -13,14 +13,14 @@
 
 <br>
 
-### <p align="center"> TH[Q](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)T - The Mentalist Guesing Game ✠ Ancient Quatria
+### <p align="center"> T [Contact THQT — Click here](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc) 
 
 
 <br><br>
 
 
 <h1 align="center">
-  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" title="Thoth Mentalist Q">⚚</a>
+  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" title="- The Mentalist Guesing Game ✠ Ancient Quatria">⚚</a>
 </h1>
 
 
@@ -30,7 +30,7 @@
 
 <br>
 
-### [Contact Thoth — Click here]
+### [Contact Thoth — Click here]()
 
 <br>
 
