@@ -3,13 +3,18 @@
 
 
 
-# <p align="center">    READY F[Q]()R  THE  TRUTH ?  🧬
+# <p align="center">    🧬 READY F[Q]()R  THE  TRUTH ?  
 
-### <p align="center"> COME T[Q]() PLAY THE GAME ! 
+### <p align="center">  Be My Guest and Let’s Play
+####  <p align="center"> *(literally and symbolically)*
 
-<br>
+### <p align="center"> It’s a guessing game — try to guess the number with ⚚ Thoth Hermes Trismegistus ⚚ Arelich Vomalich ⚚
 
-### <p align="center"> Try to Guess the Number with Thot ⚚ Hermes Trismegistus ⚚ Arelich Vomalich ⚚
+
+
+
+
+
 
 <h1 align="center">
   <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" title="- The Mentalist Guesing Game ✠ Ancient Quatria">⚚</a>
