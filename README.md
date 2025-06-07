@@ -4,7 +4,7 @@
 
 
 # <p align="center">   READY F[Q]()R  🧬 THE  TRUTH ?  
-### <p align="center"> C[Q]()ME AND PLAY THE GAME ! 
+### <p align="center"> COME T[Q]() PLAY THE GAME ! 
 
 <br>
 
