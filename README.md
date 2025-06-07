@@ -11,17 +11,17 @@
 
 ### <p align="center"> Try to Guess the Number with Thot ⚚ Hermes Trismegistus ⚚ Arelich Vomalich ⚚
 
+<h1 align="center">
+  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" title="- The Mentalist Guesing Game ✠ Ancient Quatria">⚚</a>
+</h1>
+
 <br>
 
-### <p align="center">  ✠[Contact THQT — Click here](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  ✠
+### <p align="center">  ✠  [Contact THQT — Click here](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  ✠
 
 
 <br><br>
 
-
-<h1 align="center">
-  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" title="- The Mentalist Guesing Game ✠ Ancient Quatria">⚚</a>
-</h1>
 
 
 <!--
