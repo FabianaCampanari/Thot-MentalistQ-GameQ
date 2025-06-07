@@ -9,14 +9,11 @@
 ### <p align="center">  ✠  [Contact THQT — Click here](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  ✠
 
 
-
-p align="center"><em>Welcome to the guessing game.</em></p>  
-<p align="center">Your task: uncover the hidden number.</p>  
-<p align="center">But you won't play alone — you'll be guided by</p>  
-<p align="center">⚚ Thoth Hermes Trismegistus ⚚ Arelich Vomalich ⚚</p>
-
-<p align="center"><em>Enter the chamber of mysteries. Learn by playing. Discover by guessing.</em></p>
-
+<p align="center" style="font-size: 1.4em;"><em>Welcome to the guessing game.</em></p>  
+<p align="center" style="font-size: 1.6em;">Your task: uncover the hidden number.</p>  
+<p align="center" style="font-size: 1.4em;">But you won't play alone — you'll be guided by</p>  
+<p align="center" style="font-size: 1.8em;">⚚ Thoth Hermes Trismegistus ⚚ Arelich Vomalich ⚚</p>  
+<p align="center" style="font-size: 1.3em;"><em>Enter the chamber of mysteries. Learn by playing. Discover by guessing.</em></p>
 
 <br><br>
 
