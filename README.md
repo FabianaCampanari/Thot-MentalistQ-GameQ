@@ -12,7 +12,7 @@
 
 <br>
 
-### <p align="center"> TH[Q](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)- The Mentalist Guesing Game ✠ Ancient Quatria
+### <p align="center"> TH[Q](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)T - The Mentalist Guesing Game ✠ Ancient Quatria
 
 
 <br><br>
