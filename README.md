@@ -28,15 +28,18 @@
 ### <p align="center"> [⚚](https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/)  
 -->
 
-<br><br>
+<br>
 
+### [Contact Thoth — Click here]
+
+<br>
 
 
 [Thoth]() has not only been compared to [Hermes](). In fact, the Hermes referred to in [Hermeticism]() has been compared to important figures (Masters) from various cultures. Thus, the deeds of Thoth are attributed to different names of deities and sacred beings from different civilizations. In [Egyptian]() civilization, he was [Thoth](); in [Greek](), [Hermes](); in [Roman](), [Mercury](); in the [Mayan]() culture, [Quetzalcoatl](); and in [ATLANTIS](), he was [***Chiquitet Arelich Vomalich*** - The Anunak Geneticist liderado por Prince EA - Enki. The Sumerians and other peoples of ancient Mesopotamia also worshiped lunar deities that were virtually identical to Thoth.
 
-<b>
+<b> 
 
-## [CONTACT THOT Cclicando aqui - ](https://thoth3126.com.br/)
+
 
 #### [Main Roles of Thoth]():
 
