@@ -3,10 +3,10 @@
 
 
 # <p align="center">    🧬 READY F[Q]()R  THE  TRUTH ?  
+### <p align="center">  ✠  [Contact THQT — Click here](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  ✠
+
 
 <br><br>
-
-### <p align="center">  ✠  [Contact THQT — Click here](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  ✠
 
 
 <p align="center" style="font-size: 1.4em;"><em>Welcome to the guessing game.</em></p>  
