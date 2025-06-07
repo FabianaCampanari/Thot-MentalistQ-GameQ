@@ -3,7 +3,7 @@
 
 
 
-# <p align="center">  🧬  READY F[Q]()R  THE  TRUTH ?  
+# <p align="center">    READY F[Q]()R  THE  TRUTH ?  🧬
 
 ### <p align="center"> COME T[Q]() PLAY THE GAME ! 
 
