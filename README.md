@@ -2,38 +2,48 @@
 <br><br>
 
 
-
 # <p align="center">    🧬 READY F[Q]()R  THE  TRUTH ?  
 
-### <p align="center">  Be My Guest and Let’s Play
-####  <p align="center"> *(literally and symbolically)*
+<br><br>
 
-### <p align="center"> It’s a guessing game — try to guess the number with ⚚ Thoth Hermes Trismegistus ⚚ Arelich Vomalich ⚚
-
+### <p align="center">  ✠  [Contact THQT — Click here](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  ✠
 
 
 
+p align="center"><em>Welcome to the guessing game.</em></p>  
+<p align="center">Your task: uncover the hidden number.</p>  
+<p align="center">But you won't play alone — you'll be guided by</p>  
+<p align="center">⚚ Thoth Hermes Trismegistus ⚚ Arelich Vomalich ⚚</p>
 
+<p align="center"><em>Enter the chamber of mysteries. Learn by playing. Discover by guessing.</em></p>
+
+
+<br><br>
+
+
+≽༏≼⊹⋅⭒.⭒⋅⊹｡ ݁.⋆₊˚⋆☾✩☽⋆˚ ⊹⋅⭒⋅⊹｡≽༏≼⊹⋅⭒.⭒⋅⊹｡ ݁.⋆₊˚⋆☾✩☽⋆˚ ⊹⋅⭒⋅⊹｡≽༏≼⊹⋅⭒.⭒⋅⊹｡ ݁.⋆₊˚⋆☾✩☽⋆˚ ⊹⋅⭒⋅⊹｡≽༏≼⊹⋅⭒.⭒⋅⊹｡ ݁.⋆₊˚⋆☾✩☽⋆˚ ⊹⋅⭒⋅⊹｡≽༏≼⊹⋅⭒.⭒⋅⊹｡ ݁.⋆₊˚⋆☾✩☽⋆˚ ⊹⋅⭒⋅⊹｡≽༏≼⊹⋅⭒.⭒⋅⊹｡ ݁.⋆₊˚⋆☾✩☽⋆˚ ⊹⋅⭒⋅⊹｡
+
+
+<br><br>
+
+
+<p align="center">
+  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" target="_blank">
+    🧿 <strong>Start the Game</strong> 🧿  
+  </a>
+</p>
+
+
+<br><br>
 
 
 <h1 align="center">
   <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" title="- The Mentalist Guesing Game ✠ Ancient Quatria">⚚</a>
 </h1>
 
-<br>
-
-### <p align="center">  ✠  [Contact THQT — Click here](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  ✠
 
 
 <br><br>
-
-
-
-<!--
-### <p align="center"> [⚚](https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/)  
--->
-
-<br>
 
 ### [Contact Thoth — Click here]()
 
