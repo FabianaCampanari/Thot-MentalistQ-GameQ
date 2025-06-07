@@ -32,10 +32,57 @@
 
 
 
-[Thoth]() has not only been compared to [Hermes](). In fact, the Hermes referred to in [Hermeticism]() has been compared to important figures (Masters) from various cultures. Thus, the deeds of Thoth are attributed to different names of deities and sacred beings from different civilizations. In [Egyptian]() civilization, he was [Thoth](); in [Greek](), [Hermes](); in [Roman](), [Mercury](); in the [Mayan]() culture, [Quetzalcoatl](); and in [ATLANTIS](), he was [***Chiquitet Arelich Vomalich*** - The Anunak Geneticist Beside Enki](). The Sumerians and other peoples of ancient Mesopotamia also worshiped lunar deities that were virtually identical to Thoth.
+[Thoth]() has not only been compared to [Hermes](). In fact, the Hermes referred to in [Hermeticism]() has been compared to important figures (Masters) from various cultures. Thus, the deeds of Thoth are attributed to different names of deities and sacred beings from different civilizations. In [Egyptian]() civilization, he was [Thoth](); in [Greek](), [Hermes](); in [Roman](), [Mercury](); in the [Mayan]() culture, [Quetzalcoatl](); and in [ATLANTIS](), he was [***Chiquitet Arelich Vomalich*** - The Anunak Geneticist liderado por Prince EA - Enki. The Sumerians and other peoples of ancient Mesopotamia also worshiped lunar deities that were virtually identical to Thoth.
+
+<b>
+
+### Main Roles of Thoth:
+
+- Inventor of hieroglyphs (Egyptian writing)
+- Recorder and measurer of human actions (especially in the judgment of souls)
+- Guardian of knowledge and truth (Ma’at)
+- Credited as the author of the legendary Books of Thoth
+- Mediator between rival gods, such as Ra and Set
+
+<b>
 
 
-<br><br>
+### Depiction:
+
+- Human body with the head of an ibis, or sometimes a baboon
+- Often shown holding a stylus and a writing tablet or scroll
+
+So, Thoth was the archetypal scribe, both in the literal and symbolic sense, often compared to Hermes (in Greek mythology) or even to modern archetypes of knowledge keepers.
+
+
+<b><b>
+
+
+Enki (Osiris):
+
+Enki is a major deity from Sumerian mythology, often associated with wisdom, water, creation, and magic. In various syncretic traditions, he is linked to the Egyptian god Osiris, who symbolizes resurrection, fertility, and the underworld. Enki is known as the god of freshwater and life-giving waters, a benefactor to humanity who taught humans arts, crafts, and civilization. He is portrayed as a wise and benevolent figure, a master of creation and transformation, often acting as a protector and guide for mankind.
+
+
+
+<b><b>
+
+
+
+
+
+
+
+
+
+
+Enlil (Set):
+Enlil is another key figure in Sumerian myth, representing authority, the wind, and storms. He is often equated with the Egyptian god Set, a complex deity associated with chaos, desert storms, and conflict. Enlil embodies power, command, and sometimes destruction, acting as the god who enforces divine order but can also be a force of disruption. His role often contrasts with that of Enki, highlighting the balance between order and chaos, creation and destruction in mythology.
+
+
+
+
+
+
 
 
 ### [Thot - The ThrutQ](https://thoth3126.com.br/)
