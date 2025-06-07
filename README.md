@@ -3,7 +3,7 @@
 
 
 
-# <p align="center"> 🧬  ReadyQ for TheQ TrueQ ?  
+# <p align="center"> 🧬  Ready[Q](https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc) for TheQ TrueQ ?  
 ### <p align="center"> PlayQ The GameQ ! 
 
 <br>
