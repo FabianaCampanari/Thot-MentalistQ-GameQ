@@ -36,7 +36,7 @@
 
 <b>
 
-### Main Roles of Thoth:
+#### [Main Roles of Thoth]():
 
 - Inventor of hieroglyphs (Egyptian writing)
 - Recorder and measurer of human actions (especially in the judgment of souls)
@@ -47,7 +47,7 @@
 <b>
 
 
-### Depiction:
+#### [Depiction]():
 
 - Human body with the head of an ibis, or sometimes a baboon
 - Often shown holding a stylus and a writing tablet or scroll
