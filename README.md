@@ -3,8 +3,8 @@
 
 
 
-# <p align="center">   Ready[Q] for 🧬 The  TrueQ ?  
-### <p align="center"> PlayQ The GameQ ! 
+# <p align="center">   READY FQR  🧬 THE  TRUTH ?  
+### <p align="center"> C[Q]()ME AND PLAY THE GAME ! 
 
 <br>
 
