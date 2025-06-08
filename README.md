@@ -147,5 +147,5 @@ Stories from Earth, the Solar System and the Maldek-Ombota Explosion of Mars (1)
 <br><br>
 
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/e821c201-6efb-47a7-8bcf-9b1dc1df83f2" />
+  <img src="https://thoth3126.com.br/historias-da-terra-maldek-e-do-sistema-solar-ombota-de-marte-1/" />
   
