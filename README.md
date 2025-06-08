@@ -126,7 +126,7 @@ https://github.com/user-attachments/assets/875fa917-0aed-469f-93c4-45d3bfd1e16e
 <br><br>
 
 
-### [The Real Story Behind the Knights Templar (XI0)](https://thoth3126.com.br/a-real-historia-por-tras-dos-cavaleiros-templarios-xi/)
+### [The Real Story Behind the Knights Templar](https://thoth3126.com.br/a-real-historia-por-tras-dos-cavaleiros-templarios-xi/)
 
 
 <br>
