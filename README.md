@@ -35,7 +35,7 @@
 
 <p align="center"> 𓅥⊹
 
-<p align="center"> ⇣☟↓⇓⇩⤋↧⥥
+<p align="center"> ⥥
 
 
 <h1 align="center"> 
