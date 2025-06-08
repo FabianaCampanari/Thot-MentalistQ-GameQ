@@ -73,7 +73,11 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
 <b><b>
 
 
-Enki (Osiris):
+
+<b><b>
+
+
+####  𓁶 [Prince EA- Enki - Osiriris]():
 
 Enki is a major deity from Sumerian mythology, often associated with wisdom, water, creation, and magic. In various syncretic traditions, he is linked to the Egyptian god Osiris, who symbolizes resurrection, fertility, and the underworld. Enki is known as the god of freshwater and life-giving waters, a benefactor to humanity who taught humans arts, crafts, and civilization. He is portrayed as a wise and benevolent figure, a master of creation and transformation, often acting as a protector and guide for mankind.
 
