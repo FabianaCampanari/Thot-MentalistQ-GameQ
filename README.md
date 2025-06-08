@@ -3,7 +3,7 @@
 
 
 # <p align="center">    🧬 READY F[Q]((https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  )R  THE  TRUTH ?  
-### <p align="center">   [Contact THQT — Click here](https://thoth3126.com.br/sobre-o-autor/) 𓅞
+### <p align="center">   [Contact THOT — Click here](https://thoth3126.com.br/sobre-o-autor/) 𓅞
 
 
 
