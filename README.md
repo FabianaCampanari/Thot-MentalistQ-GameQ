@@ -134,11 +134,12 @@ https://github.com/user-attachments/assets/875fa917-0aed-469f-93c4-45d3bfd1e16e
   <img src="https://github.com/user-attachments/assets/0b375ebd-e872-4009-8da1-7e46af75aa91" />
 
 
-
-<br>
+<br><br>
 
 Stories from Earth, the Solar System and the Maldek-Ombota Explosion of Mars (1) Thoth3126 june 7, 2025 225 Views MALDEK “Each Law existing in Nature can be described by the sacred language of numbers (Sacred Geometry), and each Law of Nature is expressed in the activities of a single atom”.  I AM Ralbux Ducsur from the planet GRACYEA. – I was born to life in a three-dimensional world on the planet by you called today by Mars, about sixty-nine years from Earth after the planet MALDEK exploded and was torn to pieces. I grew up to the age of nine on my home planet before being transported to Earth along with other members of my family and my race by the Nodians. –  Translated from Book “Alien Eyes” – Through Alien Eyes”, written by Wesley H. Bateman, Galactic Federation Telepath, pages 437 to 459.
 
+<br>
 
-![Image](https://github.com/user-attachments/assets/e821c201-6efb-47a7-8bcf-9b1dc1df83f2)
-
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/e821c201-6efb-47a7-8bcf-9b1dc1df83f2" />
+  
