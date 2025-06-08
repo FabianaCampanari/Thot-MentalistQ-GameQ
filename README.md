@@ -72,6 +72,8 @@
 
 So, Thoth was the archetypal scribe, both in the literal and symbolic sense, often compared to Hermes (in Greek mythology) or even to modern archetypes of knowledge keepers.
 
+#
+
 
 <b><b>
 
@@ -98,10 +100,10 @@ Enlil (Set):
 Enlil is another key figure in Sumerian myth, representing authority, the wind, and storms. He is often equated with the Egyptian god Set, a complex deity associated with chaos, desert storms, and conflict. Enlil embodies power, command, and sometimes destruction, acting as the god who enforces divine order but can also be a force of disruption. His role often contrasts with that of Enki, highlighting the balance between order and chaos, creation and destruction in mythology.
 -->
 
+#
 
 
-
-<br>
+<br><br>
 
 ## [Quatria Conspiracy - But Is Not....](https://www.timboucher.ca/?s=quatria)
 
@@ -111,7 +113,7 @@ Enlil is another key figure in Sumerian myth, representing authority, the wind, 
 https://github.com/user-attachments/assets/875fa917-0aed-469f-93c4-45d3bfd1e16e
 
 
-<br>
+<br><br>
 
 
 ### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
