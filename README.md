@@ -42,10 +42,6 @@
 
 
 
-<br><br>
-
-### [Contact Thoth — Click here]()
-
 <br>
 
 
