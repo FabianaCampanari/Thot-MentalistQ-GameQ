@@ -93,16 +93,6 @@ Enki is a major deity from Sumerian mythology, often associated with wisdom, wat
 <b><b>
 
  
-
-
-
-
-
-
-
-
-
-
 <!--
 Enlil (Set):
 Enlil is another key figure in Sumerian myth, representing authority, the wind, and storms. He is often equated with the Egyptian god Set, a complex deity associated with chaos, desert storms, and conflict. Enlil embodies power, command, and sometimes destruction, acting as the god who enforces divine order but can also be a force of disruption. His role often contrasts with that of Enki, highlighting the balance between order and chaos, creation and destruction in mythology.
@@ -111,25 +101,18 @@ Enlil is another key figure in Sumerian myth, representing authority, the wind, 
 
 
 
+<br>
 
-
-
+## [Quatria Conspiracy - But Is Not....](https://www.timboucher.ca/?s=quatria)
 
 
 <br>
-
-### [Quatria Conspiracy - But Is Not....](https://www.timboucher.ca/?s=quatria)
-
-
-<br><br>
-
 
 https://github.com/user-attachments/assets/875fa917-0aed-469f-93c4-45d3bfd1e16e
 
-<br>
-
 
 <br>
+
 
 ### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
 
