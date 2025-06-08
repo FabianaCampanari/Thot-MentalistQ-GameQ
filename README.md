@@ -28,10 +28,12 @@
 
 <p align="center">
   <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" target="_blank">
-     <strong>Start the Game</strong>  ☟
+     <strong>Start the Game</strong> 
   </a>
 </p>
 
+
+<p align="center"> ☟
 
 
 <h1 align="center">
