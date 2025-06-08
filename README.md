@@ -70,11 +70,11 @@
 So, Thoth was the archetypal scribe, both in the literal and symbolic sense, often compared to Hermes (in Greek mythology) or even to modern archetypes of knowledge keepers.
 
 
-<b><b>
+<b><b><b><b>
 
 
 
-<b><b>
+<b><b><b><b>
 
 
 ####  𓁶 [Prince EA- Enki - Osiriris]():
