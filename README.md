@@ -35,8 +35,10 @@
 
 <p align="center"> 𓅥⊹
 
+<p align="center"> ⇣☟↓⇓⇩⤋↧⥥
 
-<h1 align="center"> ⇾ ➾ ➟ ☛ ☞  ⇒
+
+<h1 align="center"> 
   <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" title="- The Mentalist Guesing Game ✠ Ancient Quatria">⚚</a>
 </h1>
 
