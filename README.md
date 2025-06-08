@@ -3,7 +3,7 @@
 
 
 # <p align="center">    🧬 READY F[Q]((https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  )R  THE  TRUTH ?  
-### <p align="center">  𓅞⋅ [Contact THQT — Click here](https://thoth3126.com.br/sobre-o-autor/) ⚚ 
+### <p align="center">   [Contact THQT — Click here](https://thoth3126.com.br/sobre-o-autor/) 𓅞
 
 
 
@@ -77,7 +77,7 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
 <b><b><b><b>
 
 
-####  𓁶 [Prince EA- Enki - Osiriris]():
+####  𓁶 [Prince EA- Enki - Osiriris]() - The Geneticist:
 
 Enki is a major deity from Sumerian mythology, often associated with wisdom, water, creation, and magic. In various syncretic traditions, he is linked to the Egyptian god Osiris, who symbolizes resurrection, fertility, and the underworld. Enki is known as the god of freshwater and life-giving waters, a benefactor to humanity who taught humans arts, crafts, and civilization. He is portrayed as a wise and benevolent figure, a master of creation and transformation, often acting as a protector and guide for mankind.
 
