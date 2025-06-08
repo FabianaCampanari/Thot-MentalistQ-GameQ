@@ -3,7 +3,7 @@
 
 
 # <p align="center">    🧬 READY F[Q]((https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  )R  THE  TRUTH ?  
-### <p align="center">   Contact THOT — [Click here](https://thoth3126.com.br/sobre-o-autor/) 𓅞
+### <p align="center">  🇶  Contact THOT — [Click here](https://thoth3126.com.br/sobre-o-autor/) 𓅞
 
 ### <p align="center">  [The Thoth Emerald Tablets: Becoming the ‘Three Times Great’](https://thoth3126.com.br/as-tabuas-de-esmeralda-de-thoth-14-tornando-me-o-tres-vezes-grande/)
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" target="_blank">
-     <strong>Start the Game</strong>  𓅥⊹
+     <strong>🇶 Start the Game</strong>  𓅥⊹
 
   </a>
 </p>
@@ -153,8 +153,8 @@ Stories from Earth, the Solar System and the Maldek-Ombota Explosion of Mars (1)
 
 <br><br>
 
-### [Star Cluster M-45, the PLEIADES 7 SISTERS and its Central Sun ALCYONE]()
-
+###  𖤐 [Star Cluster M-45, the PLEIADES 7 SISTERS and its Central Sun ALCYONE]()  𖤐
+ 
 
 <br><br>
 
@@ -166,4 +166,5 @@ Stories from Earth, the Solar System and the Maldek-Ombota Explosion of Mars (1)
 <br><br>
 
 #
-  
+
+###### <p align="center"> Copyright 2025 THOT (HERMESS TRISMEGISTUS). Code released under the [MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)  
