@@ -51,7 +51,7 @@
 
 
 
-#### [Main Roles of Thoth]():
+## [Main Roles of Thoth]():
 
 - Inventor of hieroglyphs (Egyptian writing)
 - Recorder and measurer of human actions (especially in the judgment of souls)
@@ -77,7 +77,7 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
 <b><b><b><b>
 
 
-####  𓁶 [Prince EA- Enki - Osiriris]():
+##  𓁶 [Prince EA- Enki - Osiriris]():
 
 Enki is a major deity from Sumerian mythology, often associated with wisdom, water, creation, and magic. In various syncretic traditions, he is linked to the Egyptian god Osiris, who symbolizes resurrection, fertility, and the underworld. Enki is known as the god of freshwater and life-giving waters, a benefactor to humanity who taught humans arts, crafts, and civilization. He is portrayed as a wise and benevolent figure, a master of creation and transformation, often acting as a protector and guide for mankind.
 
