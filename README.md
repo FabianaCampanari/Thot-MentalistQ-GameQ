@@ -72,7 +72,6 @@
 
 So, Thoth was the archetypal scribe, both in the literal and symbolic sense, often compared to Hermes (in Greek mythology) or even to modern archetypes of knowledge keepers.
 
-#
 
 
 <b><b>
@@ -100,7 +99,6 @@ Enlil (Set):
 Enlil is another key figure in Sumerian myth, representing authority, the wind, and storms. He is often equated with the Egyptian god Set, a complex deity associated with chaos, desert storms, and conflict. Enlil embodies power, command, and sometimes destruction, acting as the god who enforces divine order but can also be a force of disruption. His role often contrasts with that of Enki, highlighting the balance between order and chaos, creation and destruction in mythology.
 -->
 
-#
 
 
 <br><br>
@@ -146,7 +144,7 @@ https://github.com/user-attachments/assets/875fa917-0aed-469f-93c4-45d3bfd1e16e
 
 Stories from Earth, the Solar System and the Maldek-Ombota Explosion of Mars (1) Thoth3126 june 7, 2025 225 Views MALDEK “Each Law existing in Nature can be described by the sacred language of numbers (Sacred Geometry), and each Law of Nature is expressed in the activities of a single atom”.  I AM Ralbux Ducsur from the planet GRACYEA. – I was born to life in a three-dimensional world on the planet by you called today by Mars, about sixty-nine years from Earth after the planet MALDEK exploded and was torn to pieces. I grew up to the age of nine on my home planet before being transported to Earth along with other members of my family and my race by the Nodians. –  Translated from Book “Alien Eyes” – Through Alien Eyes”, written by Wesley H. Bateman, Galactic Federation Telepath, pages 437 to 459.
 
-<br>
+<br><br>
 
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/e821c201-6efb-47a7-8bcf-9b1dc1df83f2" />
