@@ -28,9 +28,7 @@ Wanna know more about who I am and why I’m back ?
 
 
 
-### <p align="center"> 𓁟 
-
-
+### <p align="center"> 𓁟 ⇣
 
 ### <p align="center">  [Start to Play](https://fabianacampanari.github.io/THQTH-Awakening-Game/)
 
