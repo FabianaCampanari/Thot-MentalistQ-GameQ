@@ -58,7 +58,7 @@ Wanna know more about who I am and why I’m back ?
 
 
 <h1 align="center"> 
-  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" title="- The Mentalist Guesing Game ✠ Ancient Quatria">⚚</a>
+  <a href="https://fabianacampanari.github.io/THQTH-Awakening-Game/" title="- THQTH - Awakening Guessing Game">⚚</a>
 </h1>
 
 
