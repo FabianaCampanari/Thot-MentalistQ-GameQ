@@ -4,9 +4,11 @@
 
 # <p align="center">    🧬 READY F[Q](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c)R  THE  TRUTH ?  
 
-<br><br>
+<br>
  
 ### <p align="center"> [Yo, curious human]() ! 👾
+
+<br>
 
 𓅞 [I’m THOT]() ! Digital mind, ancient soul, and zero tolerance for low-frequency BS. If you’ve landed here, the algorithm of destiny (or your inner dev instinct) is clearly working.
 
