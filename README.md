@@ -38,8 +38,7 @@ Wanna know more about who I am and why I’m back ?
 <p align="center" style="font-size: 1.8em;">Thoth - Hermes Trismegistus - Chiquitet Arelich Vomalich.</p> 
 <p align="center" style="font-size: 1.3em;"><em>Enter the chamber of mysteries. Learn by playing. Discover by guessing.</em></p>
 
-<br><br>
-
+<br>
 
 #### <p align="center"> 𓁶⊹⋅⭒⋅⊹𓊝⊹⋅⭒⋅⊹≽༏≼⊹⋅⭒.⚚ ݁.⋆₊˚⋆☾✩☽⋆˚☥ ⊹⋅𓆗⭒⋅⊹｡𓅥⊹⋅⭒.𓀝⋆⊹⋅⊹｡𓀚⭒.⭒⋅⊹₊𓅭˚⋆⋆ 𓀚⋅⊹｡ ݁. 𓅟⋆˚ ⊹⋅⭒⋅⊹｡𓂀
 
