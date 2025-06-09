@@ -167,4 +167,4 @@ Stories from Earth, the Solar System and the Maldek-Ombota Explosion of Mars (1)
 
 #
 
-###### <p align="center"> Copyright 2025 THOT (HERMES TRISMEGISTUS). Code released under the [MIT license.](https://github.com/FabianaCampanari/Thot-MentalistQ-GameQ/blob/8bf3ea0baf423216b7e7a88eb732fea287608def/LICENSE)
+###### <p align="center"> Copyright 2025 THOT - HERMES TRISMEGISTUS - Arelich Vomalich. Code released under the [MIT license.](https://github.com/FabianaCampanari/Thot-MentalistQ-GameQ/blob/8bf3ea0baf423216b7e7a88eb732fea287608def/LICENSE)
