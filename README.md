@@ -19,30 +19,20 @@ Wanna know more about who I am and why I’m back ?
 #### 🇶 ***Let’s [Sync]() !*** 
 
 
-
-
-
 <br><br>
 
+<!--
 
-<p align="center">
-  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" target="_blank">
-     <strong>🇶 Start the Game</strong>  𓅥⊹
-
-  </a>
-</p>
+### 𓅥⊹𓀉𓀉𓀛𓀼𓁟𓂇𓇽𓌖𓏵𓍴𓁅𓁏𓀛𓂀
+-->
 
 
-<p align="center"> ⥥
+
+### <p align="center"> 𓁟 
 
 
-<h3 align="center"> 
-  <a href="https://fabianacampanari.github.io/THQTH-Awakening-Game/" title="- THQTH - Awakening Guessing Game">⚚</a>
-</h3>
 
-
-<br><br>
-
+### <p align="center">  [Start to Play](https://fabianacampanari.github.io/THQTH-Awakening-Game/)
 
 <p align="center" style="font-size: 1.4em;"><em>Welcome to the guessing game.</em></p>  
 <p align="center" style="font-size: 1.6em;">Your task: uncover the hidden number.</p>  
