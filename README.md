@@ -155,7 +155,7 @@ https://github.com/user-attachments/assets/875fa917-0aed-469f-93c4-45d3bfd1e16e
 <br><br>
 
 
-### ✠ [Stories from Earth, the Solar System and the Maldek-Ombota Explosion of Mars]()  ✠
+### ✠ [Stories from Earth, the Solar System and the Maldek-Ombota Explosion of Mars](https://thoth3126.com.br/historias-da-terra-maldek-e-do-sistema-solar-ombota-de-marte-1/)  ✠
 
 
 <br>
