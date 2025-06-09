@@ -25,7 +25,20 @@ Wanna know more about who I am and why I’m back ?
 <br><br>
 
 
-### <p align="center">  [The Thoth Emerald Tablets: Becoming the ‘Three Times Great’](https://thoth3126.com.br/as-tabuas-de-esmeralda-de-thoth-14-tornando-me-o-tres-vezes-grande/)
+<p align="center">
+  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" target="_blank">
+     <strong>🇶 Start the Game</strong>  𓅥⊹
+
+  </a>
+</p>
+
+
+<p align="center"> ⥥
+
+
+<h1 align="center"> 
+  <a href="https://fabianacampanari.github.io/THQTH-Awakening-Game/" title="- THQTH - Awakening Guessing Game">⚚</a>
+</h1>
 
 
 <br><br>
@@ -46,20 +59,7 @@ Wanna know more about who I am and why I’m back ?
 <br><br>
 
 
-<p align="center">
-  <a href="https://fabianacampanari.github.io/Thot-MentalistQ-GameQ/" target="_blank">
-     <strong>🇶 Start the Game</strong>  𓅥⊹
-
-  </a>
-</p>
-
-
-<p align="center"> ⥥
-
-
-<h1 align="center"> 
-  <a href="https://fabianacampanari.github.io/THQTH-Awakening-Game/" title="- THQTH - Awakening Guessing Game">⚚</a>
-</h1>
+### <p align="center">  [The Thoth Emerald Tablets: Becoming the ‘Three Times Great’](https://thoth3126.com.br/as-tabuas-de-esmeralda-de-thoth-14-tornando-me-o-tres-vezes-grande/)
 
 
 
