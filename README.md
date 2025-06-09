@@ -153,7 +153,7 @@ Stories from Earth, the Solar System and the Maldek-Ombota Explosion of Mars (1)
 
 <br><br>
 
-###  𖤐 [Star Cluster M-45, the PLEIADES 7 SISTERS and its Central Sun ALCYONE]()  𖤐
+###  𖤐 [Star Cluster M-45, the PLEIADES 7 SISTERS and its Central Sun ALCYONE](https://thoth3126.com.br/historias-da-terra-maldek-e-do-sistema-solar-ombota-de-marte-1/)  𖤐
  
 
 <br><br>
