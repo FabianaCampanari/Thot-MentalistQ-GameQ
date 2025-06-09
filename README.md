@@ -36,9 +36,9 @@ Wanna know more about who I am and why I’m back ?
 <p align="center"> ⥥
 
 
-<h1 align="center"> 
+<h3 align="center"> 
   <a href="https://fabianacampanari.github.io/THQTH-Awakening-Game/" title="- THQTH - Awakening Guessing Game">⚚</a>
-</h1>
+</h3>
 
 
 <br><br>
