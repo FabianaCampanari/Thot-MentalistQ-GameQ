@@ -16,7 +16,7 @@
 <p align="center" style="font-size: 1.4em;"><em>Welcome to the guessing game.</em></p>  
 <p align="center" style="font-size: 1.6em;">Your task: uncover the hidden number.</p>  
 <p align="center" style="font-size: 1.4em;">But you won't play alone — you'll be guided by</p>  
-<p align="center" style="font-size: 1.8em;"> Thoth - Hermes Trismegistus - Arelich Vomalich [𓀚]() </p>  
+<p align="center" style="font-size: 1.8em;">Thoth - Hermes Trismegistus - Arelich Vomalich.</p> 
 <p align="center" style="font-size: 1.3em;"><em>Enter the chamber of mysteries. Learn by playing. Discover by guessing.</em></p>
 
 <br><br>
