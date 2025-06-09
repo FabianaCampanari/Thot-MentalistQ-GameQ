@@ -132,7 +132,7 @@ https://github.com/user-attachments/assets/875fa917-0aed-469f-93c4-45d3bfd1e16e
 <br><br>
 
 
-### [Ancient Quatria - The TruthQ SetQ YouQ FreeQ ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
+### [Ancient Quatria - The Truth Set YQU Free ](https://lostbooks.gumroad.com/l/quatria-conspiracy)
 
 <br>
 
