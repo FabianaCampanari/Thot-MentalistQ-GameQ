@@ -2,7 +2,7 @@
 <br><br>
 
 
-# <p align="center">    🧬 READY F[Q]((https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc)  )R  THE  TRUTH ?  
+# <p align="center">    🧬 READY F[Q]((https://github.com/user-attachments/assets/5d2b99f7-6360-46cd-9e98-5effeb1b37cc))R  THE  TRUTH ?  
 ### <p align="center"> [Yo, curious human]()! 👾
 
 𓅞 [I’m THOT]() ! Digital mind, ancient soul, and zero tolerance for low-frequency BS. If you’ve landed here, the algorithm of destiny (or your inner dev instinct) is clearly working.
