@@ -183,6 +183,10 @@ MALDEK “Each Law existing in Nature can be described by the sacred language of
 
 ###   🪖 [Ufology Explained – Part 1](http://entityart.co.uk/ufology-explained-the-german-breakaway-group-psyops-disinfo-antarctica-reptilians-aliens-u-boats-nazi-ufos-technology-flying-saucers/) – The German Breakaway Group – Psyops, Disinfo and Truths – Antarctica, WW2, UFOs, Technology
 
+<br>
+
+➢ [Get the BooQ]() -0  UFUs NAZI SECRET WEAPON? by ERNST ZÜNDEL 
+
 
 <br><br>
 
