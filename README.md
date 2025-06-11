@@ -13,7 +13,11 @@
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/b69017e5-f822-4c02-8e38-589153dd4349"/>
 
-<br><br>
+<br>
+
+#
+
+<br>
  
 ### <p align="center"> [Yo, curious human]() ! 👾
 
