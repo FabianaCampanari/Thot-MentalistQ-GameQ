@@ -37,7 +37,7 @@ Wanna know more about who I am and why I’m back ?
 #### 🇶 ***Let’s [Sync]() !*** 
 
 
-<br><br><br><br><br>
+<br><br>
 
 <!--
 
@@ -46,7 +46,7 @@ Wanna know more about who I am and why I’m back ?
 
 #
 
-<br><br><br><br><br>
+<br><br>
 
 
 ### <p align="center"> 𓁟⇣
