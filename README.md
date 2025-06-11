@@ -4,12 +4,16 @@
 
 # <p align="center">    🧬 READY F[Q](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c)R  THE  TRUTH ?  
 
+<br><br>
+
+### <p align="center"> AS ABOVE, [SO BELOW]() !
+
 <br>
 
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/b69017e5-f822-4c02-8e38-589153dd4349"/>
 
-<br>
+<br><br>
  
 ### <p align="center"> [Yo, curious human]() ! 👾
 
