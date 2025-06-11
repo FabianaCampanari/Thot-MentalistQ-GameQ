@@ -185,7 +185,12 @@ MALDEK “Each Law existing in Nature can be described by the sacred language of
 
 <br><br>
 
-⚡️ [Solar-powered space vehicles](https://github.com/user-attachments/assets/b6a4b5ca-5a65-447c-8662-9c158f1be059)
+⚡️ [Solar-Powered Nazi Space Vehicles]()
+
+<br>
+
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/b6a4b5ca-5a65-447c-8662-9c158f1be059"/>
 
 <br><br>
 
