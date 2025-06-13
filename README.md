@@ -73,22 +73,7 @@ Wanna know more about who I am and why I’m back ?
 
 #
 
-<br><br>
 
-## [The Thoth Emerald Tablets: Becoming the ‘Three Times Great’](https://thoth3126.com.br/as-tabuas-de-esmeralda-de-thoth-14-tornando-me-o-tres-vezes-grande/)
-
-<br><br>
-
-
-> Neutrality is the [***Zero Point Polarity***]() , whether positive or negative, is the Matrix. What flows through us holds no charge. It is [**UNA**]().
-
-<br>
-
- As stated by the Hermetic Principle of Polarity:  
- 
- [***“Opposites are identical in nature, but different in degree.”***]()  
- 
- To transcend polarity is to step outside the illusion — beyond duality,  into pure essence.
 
 
 <br><br>
@@ -116,6 +101,25 @@ Wanna know more about who I am and why I’m back ?
 - Often shown holding a stylus and a writing tablet or scroll
 
 So, Thoth was the archetypal scribe, both in the literal and symbolic sense, often compared to Hermes (in Greek mythology) or even to modern archetypes of knowledge keepers.
+
+
+
+<br>
+
+## [The Thoth Emerald Tablets: Becoming the ‘Three Times Great’](https://thoth3126.com.br/as-tabuas-de-esmeralda-de-thoth-14-tornando-me-o-tres-vezes-grande/)
+
+<br><br>
+
+
+> Neutrality is the [***Zero Point Polarity***]() , whether positive or negative, is the Matrix. What flows through us holds no charge. It is [**UNA**]().
+
+<br>
+
+ As stated by the Hermetic Principle of Polarity:  
+ 
+ [***“Opposites are identical in nature, but different in degree.”***]()  
+ 
+ To transcend polarity is to step outside the illusion — beyond duality,  into pure essence.
 
 
 
