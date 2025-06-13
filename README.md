@@ -263,7 +263,7 @@ This repository contains a structured guide to the Tablets of Thoth, as listed i
 | Tablet      | Title                                                                                                                |
 |-------------|----------------------------------------------------------------------------------------------------------------------|
 | Tablet II   | [The Halls of Amenti](https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201) |
-| Tablet III  | [The Key of Wisdom](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)    |
+| Tablet III  | [The Key of Wisdom](https://www.bibliotecapleyades.net/thot/esp_thot_1c.htm#tablet%202)    |
 | Tablet IV   | [The Space Born](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
 | Tablet V    | [The Dweller of Unal](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)  |
 | Tablet VI   | [The Key of Magic](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)     |
