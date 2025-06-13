@@ -108,7 +108,7 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
 
 ## [The Thoth Emerald Tablets: Becoming the ‘Three Times Great’](https://thoth3126.com.br/as-tabuas-de-esmeralda-de-thoth-14-tornando-me-o-tres-vezes-grande/)
 
-<br><br>
+<br>
 
 
 > Neutrality is the [***Zero Point Polarity***]() , whether positive or negative, is the Matrix. What flows through us holds no charge. It is [**UNA**]().
@@ -121,14 +121,16 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
  
  To transcend polarity is to step outside the illusion — beyond duality,  into pure essence.
 
+<br>
+
 
 
 <b><b>
+
 
 ## [Prince EA - Enki - Osiris]():
 
 <b><b>
-
 
 Enki is a major deity from Sumerian mythology, often associated with wisdom, water, creation, and magic. In various syncretic traditions, he is linked to the Egyptian god Osiris, who symbolizes resurrection, fertility, and the underworld. Enki is known as the god of freshwater and life-giving waters, a benefactor to humanity who taught humans arts, crafts, and civilization. He is portrayed as a wise and benevolent figure, a master of creation and transformation, often acting as a protector and guide for mankind.
 
