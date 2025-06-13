@@ -201,7 +201,7 @@ _Based on the timeless wisdom of the book [*El Kybalion*]()_
 
 <br><br>
 
-## # 📜 [The Emerald Tablets of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1.htm#menu)
+##  📜 [The Emerald Tablets of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1.htm#menu)
 
 Ancient texts said to be authored by **Thoth**, high priest of Atlantis. These tablets contain profound wisdom on consciousness, the cosmos, and the journey of the soul — blending esoteric science, mysticism, and metaphysics.
 
