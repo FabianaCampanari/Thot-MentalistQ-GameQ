@@ -102,14 +102,14 @@ Wanna know more about who I am and why I’m back ?
 
 So, Thoth was the archetypal scribe, both in the literal and symbolic sense, often compared to Hermes (in Greek mythology) or even to modern archetypes of knowledge keepers.
 
+<br><br>
 
+
+##  ⚚ [The 7 Hermetic Principles of Thoth](): 
+
+_Based on the timeless wisdom of the book [*El Kybalion*]()_
 
 <br>
-
-## [The Thoth Emerald Tablets: Becoming the ‘Three Times Great’](https://thoth3126.com.br/as-tabuas-de-esmeralda-de-thoth-14-tornando-me-o-tres-vezes-grande/)
-
-<br>
-
 
 > Neutrality is the [***Zero Point Polarity***]() , whether positive or negative, is the Matrix. What flows through us holds no charge. It is [**UNA**]().
 
@@ -121,12 +121,6 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
  
  To transcend polarity is to step outside the illusion [∞]() beyond duality,  into pure essence.
 
-<br>
-
-
-##  ⚚ [The 7 Hermetic Principles of Thoth](): 
-
-_Based on the timeless wisdom of the book [*El Kybalion*]()_
 
 <br>
 
@@ -205,12 +199,70 @@ _Based on the timeless wisdom of the book [*El Kybalion*]()_
 - **Philosophical Lineage:** Hermeticism — an esoteric tradition rooted in ancient Egypt and Greece.
 
 
+<br><br>
+
+## # 📜 [The Emerald Tablets of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1.htm#menu)
+
+Ancient texts said to be authored by **Thoth**, high priest of Atlantis. These tablets contain profound wisdom on consciousness, the cosmos, and the journey of the soul — blending esoteric science, mysticism, and metaphysics.
+
+<br>
+
+
+## 🧪 Material & Origin
+
+- Composed of **12 tablets** of **emerald green**, created by **alchemical transmutation**.
+- **Imperishable** and immune to all forms of decay, corrosion, or damage.
+- Engraved in **Ancient Atlantean language**, readable only through attuned consciousness.
+- Tablets are held together by **golden alloy hoops** on a rod of the same substance.
+
+<br>
+
+## 📖 Translation
+
+- First translated and published in the 1930s by the enigmatic **Dr. Doreal**, founder of the **Brotherhood of the White Temple**.
+- Dr. Doreal divided 10 of the tablets into 13 parts.
+- Tablets XIV and XV are considered **supplements** and appear in his *Interpretation of the Emerald Tablets*.
+
+
+<br><br>
+
+
+## ✨ Mystical Legacy
+
+Though no original tablets have been found, the texts are considered **channeled material** by many and are integrated into the **modern Corpus Hermeticum**, expanding on the traditional Emerald Tablet attributed to **Hermes Trismegistus (Thoth)**.
+
+
+<br><br>
+
+
+## 🪐 Excerpt from the Tablets
+
+> "Long ago, in my childhood, I lay beneath the stars in lost Atlantis, dreaming of mysteries far beyond man.  
+> A great longing grew within me — to conquer the path to the stars.  
+>  
+> Year after year I searched for wisdom, until at last my soul broke free from the bondage of the body.  
+> I soared through space — the stars unlocked — and I was free from the chains of night.  
+>  
+> I traveled beyond the knowledge of finite man, seeking truth across the ends of the cosmos."
+
+<br>
+
+*Translation and Interpretation by Dr. Doreal*
+
+
+<b><b>
+
+
+
+
+
+
 <b><b>
 
 
 ## [Prince EA - Enki - Osiris]():
 
-<b><b>
+<b><b><b><b>
 
 Enki is a major deity from Sumerian mythology, often associated with wisdom, water, creation, and magic. In various syncretic traditions, he is linked to the Egyptian god Osiris, who symbolizes resurrection, fertility, and the underworld. Enki is known as the god of freshwater and life-giving waters, a benefactor to humanity who taught humans arts, crafts, and civilization. He is portrayed as a wise and benevolent figure, a master of creation and transformation, often acting as a protector and guide for mankind.
 
