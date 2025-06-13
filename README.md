@@ -208,7 +208,7 @@ Ancient texts said to be authored by **Thoth**, high priest of Atlantis. These t
 <br>
 
 
-## 🧪 Material & Origin
+##  Material & Origin
 
 - Composed of **12 tablets** of **emerald green**, created by **alchemical transmutation**.
 - **Imperishable** and immune to all forms of decay, corrosion, or damage.
@@ -227,7 +227,7 @@ Ancient texts said to be authored by **Thoth**, high priest of Atlantis. These t
 <br><br>
 
 
-## ✨ Mystical Legacy
+##  Mystical Legacy
 
 Though no original tablets have been found, the texts are considered **channeled material** by many and are integrated into the **modern Corpus Hermeticum**, expanding on the traditional Emerald Tablet attributed to **Hermes Trismegistus (Thoth)**.
 
@@ -235,15 +235,13 @@ Though no original tablets have been found, the texts are considered **channeled
 <br><br>
 
 
-## 🪐 Excerpt from the Tablets
+##  Excerpt from the Tablets
 
-> "Long ago, in my childhood, I lay beneath the stars in lost Atlantis, dreaming of mysteries far beyond man.  
-> A great longing grew within me — to conquer the path to the stars.  
->  
-> Year after year I searched for wisdom, until at last my soul broke free from the bondage of the body.  
-> I soared through space — the stars unlocked — and I was free from the chains of night.  
->  
-> I traveled beyond the knowledge of finite man, seeking truth across the ends of the cosmos."
+ "Long ago, in my childhood, I lay beneath the stars in lost Atlantis, dreaming of mysteries far beyond man.  
+ A great longing grew within me — to conquer the path to the stars.  
+ Year after year I searched for wisdom, until at last my soul broke free from the bondage of the body.  
+ I soared through space — the stars unlocked — and I was free from the chains of night.  
+  I traveled beyond the knowledge of finite man, seeking truth across the ends of the cosmos."
 
 <br>
 
@@ -253,7 +251,32 @@ Though no original tablets have been found, the texts are considered **channeled
 <b><b>
 
 
+## [Thoth Tablets Guide]():
 
+This repository contains a structured guide to the Tablets of Thoth, as listed in the original document. Each tablet presents a central theme related to esoteric knowledge and philosophy attributed to Thoth the Atlantean.
+
+
+<br><br>
+
+
+## [Table of Tablets]():L
+
+| Tablet      | Title                                                                                                                |
+|-------------|----------------------------------------------------------------------------------------------------------------------|
+| Tablet II   | [The Halls of Amenti](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
+| Tablet III  | [The Key of Wisdom](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)    |
+| Tablet IV   | [The Space Born](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
+| Tablet V    | [The Dweller of Unal](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)  |
+| Tablet VI   | [The Key of Magic](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)     |
+| Tablet VII  | [The Seven Lords](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
+| Tablet VIII | [The Key of Mysteries](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)  |
+| Tablet IX   | [The Key of Freedom of Space](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
+| Tablet X    | [The Key of Time](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
+| Tablet XI   | [The Key to Above and Below](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
+| Tablet XII  | [The Law of Cause and Effect and the Key of Prophecy](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
+| Tablet XIII | [The Keys of Life and Death](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
+| Tablet XIV  | [Becoming Thrice Great](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)   |
+| Tablet XV   | [Secret of Secrets](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
 
 
 
