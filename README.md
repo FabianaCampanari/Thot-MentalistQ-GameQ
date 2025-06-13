@@ -82,6 +82,8 @@ Wanna know more about who I am and why I’m back ?
 
 > Neutrality is the [***Zero Point Polarity***]() , whether positive or negative — is the Matrix. What flows through us holds no charge. It is [**UNA**]().
 
+<br>
+
  As stated by the Hermetic Principle of Polarity:  
  
  [***“Opposites are identical in nature, but different in degree.”***]()  
