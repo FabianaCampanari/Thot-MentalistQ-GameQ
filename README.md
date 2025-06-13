@@ -75,15 +75,14 @@ Wanna know more about who I am and why I’m back ?
 
 <br><br>
 
-### <p align="center">  [The Thoth Emerald Tablets: Becoming the ‘Three Times Great’](https://thoth3126.com.br/as-tabuas-de-esmeralda-de-thoth-14-tornando-me-o-tres-vezes-grande/)
+[The Thoth Emerald Tablets: Becoming the ‘Three Times Great’](https://thoth3126.com.br/as-tabuas-de-esmeralda-de-thoth-14-tornando-me-o-tres-vezes-grande/)
 
 
-#### <p align="center"> Neutrality is the [***Zero Point Polarity***]() , whether positive or negative — is the Matrix. What flows through us holds no charge. It is [**UNA*]().
+> Neutrality is the [***Zero Point Polarity***]() , whether positive or negative — is the Matrix. What flows through us holds no charge. It is [**UNA*]().
 
-#### <p align="center"> As stated by the Hermetic Principle of Polarity:  
-
-#### <p align="center"> *“Opposites are identical in nature, but different in degree.”*  
-#### <p align="center"> To transcend polarity is to step outside the illusion — beyond duality,  into pure essence.
+ As stated by the Hermetic Principle of Polarity:  
+ *“Opposites are identical in nature, but different in degree.”*  
+ To transcend polarity is to step outside the illusion — beyond duality,  into pure essence.
 
 
 <br><br>
