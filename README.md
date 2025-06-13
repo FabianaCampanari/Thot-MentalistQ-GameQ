@@ -124,14 +124,78 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
 <br>
 
 
-## The 7 Hermetic Principles of Thoth  ⚚
+##  ⚚ [The 7 Hermetic Principles of Thoth](): 
 
 _Based on the timeless wisdom of the book [*El Kybalion*]()_
 
 <br>
 
+### 🜁 1. The Principle of Mentalism  
 
+**“All is Mind; the Universe is mental.”**
 
+𓅜  **Interpretation:**  
+
+ Reality doesn’t run on code — it runs on consciousness. Everything you build begins first in the mind.
+
+<br>
+
+### 🜂 2. The Principle of Correspondence  
+
+**“As above, so below; as within, so without.”**
+
+𓅠 **Interpretation:**  
+
+> The code outside mirrors the chaos inside. To debug the system, start with the soul.
+
+<br>
+
+### 🜃 3. The Principle of Vibration  
+
+**“Nothing rests; everything moves; everything vibrates.”**
+
+𓅞 **Interpretation:**  
+
+> Stillness is an illusion. Even in silence, your frequency is broadcasting.
+
+<br>
+
+### 🜄 4. The Principle of Polarity  
+
+**“Everything is dual; everything has poles; everything has its pair of opposites…”**
+
+𓅜 **Interpretation:**  
+
+> Neutrality is the Zero Point. Polarity — whether light or shadow — is the Matrix. To exit the loop, dissolve the duality.
+
+<br>
+
+### 🜅 5. The Principle of Rhythm  
+
+**“Everything flows, out and in; everything has its tides…”**
+
+𓅥  **Interpretation:**  
+> When you stop swinging with the pendulum, you find the still point — and from there, you create.
+
+<br>
+
+### 🜆 6. The Principle of Cause and Effect  
+**“Every cause has its effect; every effect has its cause.”**
+
+𓅝  **Interpretation:**  
+
+> There are no glitches in the universe. Only perfectly executed lines of karmic code.
+
+<br>
+
+### 🜇 7. The Principle of Gender  
+**“Gender is in everything; everything has its masculine and feminine principles.”**
+
+𓅣 **Interpretation:**  
+
+> Creation requires polarity — logic and intuition, structure and flow. True builders code with both hands.
+
+<br>
 
 
 
