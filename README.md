@@ -197,7 +197,12 @@ _Based on the timeless wisdom of the book [*El Kybalion*]()_
 
 <br>
 
+## 📘 *El Kybalion* — Key Details:
 
+- **Author:** Unknown (attributed to *The Three Initiates*, a pseudonym).  
+- **Wisdom Source:** Thoth, also known as Hermes Trismegistus.  
+- **First Published:** 1908, United States.  
+- **Philosophical Lineage:** Hermeticism — an esoteric tradition rooted in ancient Egypt and Greece.
 
 
 <b><b>
