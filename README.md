@@ -201,7 +201,7 @@ _Based on the timeless wisdom of the book [*El Kybalion*]()_
 
 <br><br>
 
-## # 📜 [The Emerald Tablets of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1.htm#menu)
+##  📜 [The Emerald Tablets of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1.htm#menu)
 
 Ancient texts said to be authored by **Thoth**, high priest of Atlantis. These tablets contain profound wisdom on consciousness, the cosmos, and the journey of the soul — blending esoteric science, mysticism, and metaphysics.
 
@@ -265,6 +265,13 @@ This repository contains a structured guide to the Tablets of Thoth, as listed i
 |-------------|----------------------------------------------------------------------------------------------------------------------|
 | Tablet II   | [The Halls of Amenti](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
 | Tablet III  | [The Key of Wisdom](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)    |
+
+
+
+| Tablet      | Title                                                                                                                |
+|-------------|----------------------------------------------------------------------------------------------------------------------|
+| Tablet II   | [The Halls of Amenti](https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201) |
+| Tablet III  | [The Key of Wisdom](https://www.bibliotecapleyades.net/thot/esp_thot_1c.htm#tablet%202)    |
 | Tablet IV   | [The Space Born](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
 | Tablet V    | [The Dweller of Unal](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)  |
 | Tablet VI   | [The Key of Magic](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)     |
@@ -306,6 +313,16 @@ Enlil is another key figure in Sumerian myth, representing authority, the wind, 
 -->
 
 
+
+
+<br><br>
+
+
+### [Space and Time - Vedic Cosmology - Consciousness - Entropy - Yuga's Cicle - From Kali Yuga to Satya Yuga (SHIFT)]()
+
+https://github.com/user-attachments/assets/721eb40f-f2d1-4ba0-a146-9d74e9e62d23
+
+#### ➢➣➢  [Click here](https://youtu.be/C0fer40y5hk?si=euaqW_4iVt2Tbh2h) to watch the full video in high resolution and dive deeper into the study 🪷
 
 <br><br>
 
