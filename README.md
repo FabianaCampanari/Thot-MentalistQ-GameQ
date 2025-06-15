@@ -307,6 +307,15 @@ Enlil is another key figure in Sumerian myth, representing authority, the wind, 
 
 
 
+
+<br><br>
+
+
+## [Space and Time - Vedic Cosmology YUGAS CYCLE ENTROPY]()
+
+
+https://github.com/user-attachments/assets/721eb40f-f2d1-4ba0-a146-9d74e9e62d23
+
 <br><br>
 
 ## [Quatria Conspiracy - But Is Not....](https://www.timboucher.ca/?s=quatria)
