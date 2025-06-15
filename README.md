@@ -256,9 +256,17 @@ This repository contains a structured guide to the Tablets of Thoth, as listed i
 
 <b><b>
 
-## Table of Tablets
+## [Thoth Tablets Guide]():
 
 <b><b>
+
+
+| Tablet      | Title                                                                                                                |
+|-------------|----------------------------------------------------------------------------------------------------------------------|
+| Tablet II   | [The Halls of Amenti](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
+| Tablet III  | [The Key of Wisdom](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)    |
+
+
 
 | Tablet      | Title                                                                                                                |
 |-------------|----------------------------------------------------------------------------------------------------------------------|
@@ -276,7 +284,6 @@ This repository contains a structured guide to the Tablets of Thoth, as listed i
 | Tablet XIII | [The Keys of Life and Death](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
 | Tablet XIV  | [Becoming Thrice Great](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)   |
 | Tablet XV   | [Secret of Secrets](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
-
 
 
 
