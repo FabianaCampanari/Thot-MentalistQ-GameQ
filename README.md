@@ -311,10 +311,11 @@ Enlil is another key figure in Sumerian myth, representing authority, the wind, 
 <br><br>
 
 
-## [Space and Time - Vedic Cosmology YUGAS CYCLE ENTROPY]()
-
+## ➢ Space and Time - Vedic Cosmology - Entropy - [Yuga's Cicle - From Kali Yuga to Satya Yuga]()
 
 https://github.com/user-attachments/assets/721eb40f-f2d1-4ba0-a146-9d74e9e62d23
+
+#### ➢➣➢  [Click here](https://youtu.be/C0fer40y5hk?si=euaqW_4iVt2Tbh2h) to watch the full video in high resolution and dive deeper into the study 🪷
 
 <br><br>
 
