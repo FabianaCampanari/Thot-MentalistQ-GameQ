@@ -107,7 +107,7 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
 
 ##  ⚚ [The 7 Hermetic Principles of Thoth](): 
 
-_Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/85147e063279370c6d70374130e1546011c92c56/El%20Kyalion%20%F0%93%82%80.pdf)_
+_Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/22216d7419cf23e325aa99dee806ff513d60ebc1/%F0%9F%87%BA%F0%9F%87%B8El%20KyBalion-7%20HERMETICS%20LAWS%20%20%E2%9A%9A%20.pdf)
 
 <br>
 
