@@ -191,7 +191,7 @@ _Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fab
 
 <br>
 
-##  *El Kybalion* ☥☥ Key Details:
+##  *El Kybalion* ☥ Key Details:
 
 - **Author:** Unknown (attributed to *The Three Initiates*, a pseudonym).  
 - **Wisdom Source:** Thoth, also known as Hermes Trismegistus.  
