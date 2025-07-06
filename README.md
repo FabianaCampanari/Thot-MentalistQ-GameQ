@@ -262,17 +262,29 @@ This repository contains a structured guide to the Tablets of Thoth, as listed i
 
 <b><b><b><b>
 
-https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201
+<div align="center">
 
+| Tablets     | Título                                                                                                              |
+|------------|--------------------------------------------------------------------------------------------------------------------|
+| Tablet I   | [The History of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201)           |
+| Tablet II  | [The Halls of Amenti](https://www.bibliotecapleyades.net/thot/esp_thot_1c.htm#tablet%202)                          |
+| Tablet III | [The Key of Wisdom](https://www.bibliotecapleyades.net/thot/esp_thot_1d.htm#tablet%203)                            |
+| Tablet IV  | The Space Born                                                                                                     |
+| Tablet V   | The Dweller of Unal                                                                                                |
+| Tablet VI  | The Key of Magic                                                                                                   |
+| Tablet VII | The Seven Lords                                                                                                    |
+| Tablet VIII| The Key of Mysteries                                                                                               |
+| Tablet IX  | The Key of Freedom of Space                                                                                        |
+| Tablet X   | The Key of Time                                                                                                    |
+| Tablet XI  | The Key to Above and Below                                                                                         |
+| Tablet XII | The Law of Cause and Effect and the Key of Prophecy                                                                |
+| Tablet XIII| The Keys of Life and Death                                                                                         |
+| Tablet XIV | Becoming Thrice Great                                                                                              |
+| Tablet XV  | Secret of Secrets                                                                                                  |
 
-
-
-
-
+</div>
 
 <b><b><b><b>
-
-
 
 
 ## [Prince EA - Enki - Osiris]() - The Master Geneticist:
