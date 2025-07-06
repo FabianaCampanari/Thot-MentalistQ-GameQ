@@ -294,7 +294,7 @@ https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201
 
 
 
-## [Prince EA - Enki - Osiris]():
+## [Prince EA - Enki - Osiris]() - The Master Geneticist:
 
 <b><b><b><b>
 
