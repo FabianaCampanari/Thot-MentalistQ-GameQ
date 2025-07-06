@@ -116,7 +116,7 @@ Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fabi
 
 <br>
 
-> Neutrality is the [***Zero Point Polarity***]() , whether positive or negative, is the Matrix. What flows through us holds no charge. It is [**UNO**]().
+> Neutrality is the [***Zero Point Polarity***]() , whether positive or negative, is the Matrix. What flows through us holds no charge. It is [**UNA**]().
 
 <br>
 
