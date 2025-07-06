@@ -216,7 +216,7 @@ Ancient texts said to be authored by **Thoth**, high priest of Atlantis. These t
 
 <br>
 
-## 📖 Translation
+## 📖 [Translation]():
 
 - First translated and published in the 1930s by the enigmatic **Dr. Doreal**, founder of the **Brotherhood of the White Temple**.
 - Dr. Doreal divided 10 of the tablets into 13 parts.
@@ -226,7 +226,7 @@ Ancient texts said to be authored by **Thoth**, high priest of Atlantis. These t
 <br><br>
 
 
-##  Mystical Legacy
+##  [Mystical Legacy]():
 
 Though no original tablets have been found, the texts are considered **channeled material** by many and are integrated into the **modern Corpus Hermeticum**, expanding on the traditional Emerald Tablet attributed to **Hermes Trismegistus (Thoth)**.
 
@@ -260,13 +260,13 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 
 <div align="center">
 
-| Tablets     | Titles                                                                                                              |
+| Tablets     | Titles                                                                                                            |
 |------------|--------------------------------------------------------------------------------------------------------------------|
 | Tablet I   | [The History of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201)           |
 | Tablet II  | [The Halls of Amenti](https://www.bibliotecapleyades.net/thot/esp_thot_1c.htm#tablet%202)                          |
 | Tablet III | [The Key of Wisdom](https://www.bibliotecapleyades.net/thot/esp_thot_1d.htm#tablet%203)                            |
-| Tablet IV  | [The Space Born](https://www.bibliotecapleyades.net/thot/esp_thot_1e.htm#tablet%204)                               |                                                                        
-| Tablet V   | The Dweller of Unal                                                                                                |
+| Tablet IV  | [The Space Born](https://www.bibliotecapleyades.net/thot/esp_thot_1e.htm#tablet%204)                               |                               
+| Tablet V   | [The Dweller of Unal](https://www.bibliotecapleyades.net/thot/esp_thot_1f.htm#tablet%205)                          |
 | Tablet VI  | The Key of Magic                                                                                                   |
 | Tablet VII | The Seven Lords                                                                                                    |
 | Tablet VIII| The Key of Mysteries                                                                                               |
