@@ -119,7 +119,7 @@ _Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fab
  
  [***“Opposites are identical in nature, but different in degree.”***]()  
  
- To transcend polarity is to step outside the illusion [∞]() beyond duality,  into pure essence.
+####  ***To transcend polarity is to step outside the illusion [∞]() beyond duality,  into pure essence.***
 
 
 <br>
