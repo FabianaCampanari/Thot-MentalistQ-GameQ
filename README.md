@@ -252,15 +252,14 @@ Though no original tablets have been found, the texts are considered **channeled
 
 <b><b>
 
-## Thoth Tablets Guide
-
-This repository contains a structured guide to the Tablets of Thoth, as listed in the original document. Each tablet presents a central theme related to esoteric knowledge and philosophy attributed to Thoth the Atlantean.
-
-<b><b>
-
 ## [Thoth Tablets Guide]():
 
+
+Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, drawn from the original text. Each tablet unfolds a central theme, offering a glimpse into the timeless hermetic wisdom and profound philosophy attributed to Thoth the Atlantean.
+
+
 <b><b><b><b>
+
 
 <div align="center">
 
