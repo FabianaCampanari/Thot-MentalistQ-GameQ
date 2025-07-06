@@ -260,12 +260,13 @@ This repository contains a structured guide to the Tablets of Thoth, as listed i
 
 <b><b>
 
+https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201
 
 <div align="center">
 
 | Tablet     | Título                                                                                          |
 |------------|------------------------------------------------------------------------------------------------|
-| Tablet I   | [The History of Thoth the Atlantean](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/fe71faf0-1781-49b5-8db9-6e8a752bf28b/pd.pdf) |
+| Tablet I   | [The History of Thoth the Atlantean](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/fe71faf0-1781-49b5-8db9-6e8a752bf28b/) |
 | Tablet II  | [The Halls of Amenti](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/fe71faf0-1781-49b5-8db9-6e8a752bf28b/pd.pdf) |
 | Tablet III | [The Key of Wisdom](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/fe71faf0-1781-49b5-8db9-6e8a752bf28b/pd.pdf) |
 | Tablet IV  | [The Space Born](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/fe71faf0-1781-49b5-8db9-6e8a752bf28b/pd.pdf) |
