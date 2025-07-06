@@ -265,7 +265,7 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 | Tablet I   | [The History of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201)           |
 | Tablet II  | [The Halls of Amenti](https://www.bibliotecapleyades.net/thot/esp_thot_1c.htm#tablet%202)                          |
 | Tablet III | [The Key of Wisdom](https://www.bibliotecapleyades.net/thot/esp_thot_1d.htm#tablet%203)                            |
-| Tablet IV  | The Space Born                                                                                                     |
+| Tablet IV  | [The Space Born](https://www.bibliotecapleyades.net/thot/esp_thot_1e.htm#tablet%204)                               |                                                                        
 | Tablet V   | The Dweller of Unal                                                                                                |
 | Tablet VI  | The Key of Magic                                                                                                   |
 | Tablet VII | The Seven Lords                                                                                                    |
