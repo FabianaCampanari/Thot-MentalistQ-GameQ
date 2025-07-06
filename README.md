@@ -107,9 +107,9 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
 <!--    -->
 
 
-##  ⚚🜑⚚⚚☥☥☤☤☯︎♂︎♂︎⚤☧♆♋︎♓︎⚔︎♁ [The 7 Hermetic Principles of Thoth](): 
+##  ⚚🜑⚚ 𓋹 ⚚☥☥☤☤☯︎♂︎♂︎⚤☧♆♋︎♓︎⚔︎♁ [The 7 Hermetic Principles of Thoth](): 
 
-_Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/22216d7419cf23e325aa99dee806ff513d60ebc1/%F0%9F%87%BA%F0%9F%87%B8El%20KyBalion-7%20HERMETICS%20LAWS%20%20%E2%9A%9A%20.pdf)
+Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/22216d7419cf23e325aa99dee806ff513d60ebc1/%F0%9F%87%BA%F0%9F%87%B8El%20KyBalion-7%20HERMETICS%20LAWS%20%20%E2%9A%9A%20.pdf)
 
 <br>
 
@@ -193,7 +193,7 @@ _Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fab
 
 <br>
 
-##  *El Kybalion* ☥ Key Details:
+##  ***El Kybalion***  [𓋹]()  Key Details:
 
 - **Author:** Unknown (attributed to *The Three Initiates*, a pseudonym).  
 - **Wisdom Source:** Thoth, also known as Hermes Trismegistus.  
