@@ -95,7 +95,7 @@ Wanna know more about who I am and why I’m back ?
 <b>
 
 
-#### [Depiction]():
+### [Depiction]():
 
 - Human body with the head of an ibis, or sometimes a baboon
 - Often shown holding a stylus and a writing tablet or scroll
@@ -107,7 +107,7 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
 <!--   EXTRAS SYMBOLS  ⚚🜑⚚ 𓋹 ⚚☥☥☤☤☯︎♂︎♂︎⚤☧♆♋︎♓︎⚔︎♁    -->
 
 
-##  ⚚🜑⚚ 𓋹 ⚚☥☥☤☤☯︎♂︎♂︎⚤☧♆♋︎♓︎⚔︎♁ [The 7 Hermetic Principles of Thoth](): 
+##  ⚚ [The 7 Hermetic Principles of Thoth](): 
 
 Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/22216d7419cf23e325aa99dee806ff513d60ebc1/%F0%9F%87%BA%F0%9F%87%B8El%20KyBalion-7%20HERMETICS%20LAWS%20%20%E2%9A%9A%20.pdf)
 
@@ -117,7 +117,7 @@ Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fabi
 
 <br>
 
- As stated by the Hermetic Principle of Polarity:  
+####  As stated by the Hermetic Principle of Polarity:  
  
  [***“Opposites are identical in nature, but different in degree.”***]()  
  
@@ -132,7 +132,7 @@ Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fabi
 
 𓅜  **Interpretation:**  
 
- Reality doesn’t run on code — it runs on consciousness. Everything you build begins first in the mind.
+> Reality doesn’t run on code — it runs on consciousness. Everything you build begins first in the mind.
 
 <br>
 
