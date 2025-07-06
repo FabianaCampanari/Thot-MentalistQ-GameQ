@@ -264,7 +264,7 @@ This repository contains a structured guide to the Tablets of Thoth, as listed i
 
 <div align="center">
 
-| Tablets     | Título                                                                                                              |
+| Tablets     | Titles                                                                                                              |
 |------------|--------------------------------------------------------------------------------------------------------------------|
 | Tablet I   | [The History of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201)           |
 | Tablet II  | [The Halls of Amenti](https://www.bibliotecapleyades.net/thot/esp_thot_1c.htm#tablet%202)                          |
