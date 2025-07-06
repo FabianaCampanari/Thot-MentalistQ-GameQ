@@ -104,6 +104,8 @@ So, Thoth was the archetypal scribe, both in the literal and symbolic sense, oft
 
 <br><br>
 
+<!--    -->
+
 
 ##  ⚚🜑⚚⚚☥☥☤☤☯︎♂︎♂︎⚤☧♆♋︎♓︎⚔︎♁ [The 7 Hermetic Principles of Thoth](): 
 
