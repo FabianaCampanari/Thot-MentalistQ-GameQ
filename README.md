@@ -261,33 +261,18 @@ This repository contains a structured guide to the Tablets of Thoth, as listed i
 <b><b>
 
 
-| Tablet      | Title                                                                                                                |
+| Tablets      | Title                                                                                                                |
 |-------------|----------------------------------------------------------------------------------------------------------------------|
 | Tablet II   | [The Halls of Amenti](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
 | Tablet III  | [The Key of Wisdom](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)    |
 
 
 
-| Tablet      | Title                                                                                                                |
-|-------------|----------------------------------------------------------------------------------------------------------------------|
-| Tablet II   | [The Halls of Amenti](https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201) |
-| Tablet III  | [The Key of Wisdom](https://www.bibliotecapleyades.net/thot/esp_thot_1c.htm#tablet%202)    |
-| Tablet IV   | [The Space Born](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
-| Tablet V    | [The Dweller of Unal](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)  |
-| Tablet VI   | [The Key of Magic](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)     |
-| Tablet VII  | [The Seven Lords](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
-| Tablet VIII | [The Key of Mysteries](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)  |
-| Tablet IX   | [The Key of Freedom of Space](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
-| Tablet X    | [The Key of Time](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
-| Tablet XI   | [The Key to Above and Below](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
-| Tablet XII  | [The Law of Cause and Effect and the Key of Prophecy](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
-| Tablet XIII | [The Keys of Life and Death](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf) |
-| Tablet XIV  | [Becoming Thrice Great](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)   |
-| Tablet XV   | [Secret of Secrets](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/5036149/11d7c55f-183a-4dba-97f5-72a1cae460b2/Untitled.pdf)      |
-
 
 
 <b><b>
+
+
 
 
 ## [Prince EA - Enki - Osiris]():
