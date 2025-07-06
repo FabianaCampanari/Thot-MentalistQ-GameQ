@@ -73,9 +73,6 @@ Wanna know more about who I am and why I’m back ?
 
 #
 
-
-
-
 <br><br>
 
 [Thoth]() has not only been compared to [Hermes](). In fact, the Hermes referred to in [Hermeticism]() has been compared to important figures (Masters) from various cultures. Thus, the deeds of Thoth are attributed to different names of deities and sacred beings from different civilizations. In [Egyptian]() civilization, he was [Thoth](); in [Greek](), [Hermes](); in [Roman](), [Mercury](); in the [Mayan]() culture, [Quetzalcoatl](); and in [ATLANTIS](), he was ***Chiquitet Arelich Vomalich*** - The Anunnak Geneticist leaded by Prince EA (Enki). The Sumerians and other peoples of ancient Mesopotamia also worshiped lunar deities that were virtually identical to Thoth.
@@ -113,7 +110,7 @@ Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fabi
 
 <br>
 
-> Neutrality is the [***Zero Point Polarity***]() , whether positive or negative, is the Matrix. What flows through us holds no charge. It is [**UNA**]().
+> Neutrality is the [***Zero Point Polarity***]() , whether positive or negative, is the Matrix. What flows through us holds no charge. It is [**UNO**]().
 
 <br>
 
