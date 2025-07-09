@@ -274,8 +274,8 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 | Tablet IV  | [The Space Born](https://www.bibliotecapleyades.net/thot/esp_thot_1e.htm#tablet%204)                               |                               
 | Tablet V   | [The Dweller of Unal](https://www.bibliotecapleyades.net/thot/esp_thot_1f.htm#tablet%205)                          |
 | Tablet VI  | [The Key of Magic](https://www.bibliotecapleyades.net/thot/esp_thot_1g.htm#tablet%206)                             |
-| Tablet VII | [The Seven Lords](https://www.bibliotecapleyades.net/thot/esp_thot_1h.htm#tablet%207)                             |
-| Tablet VIII| The Key of Mysteries                                                                                               |
+| Tablet VII | [The Seven Lords](https://www.bibliotecapleyades.net/thot/esp_thot_1h.htm#tablet%207)                              |
+| Tablet VIII| [The Key of Mysteries](https://www.bibliotecapleyades.net/thot/esp_thot_1i.htm#tablet%208)                         |
 | Tablet IX  | The Key of Freedom of Space                                                                                        |
 | Tablet X   | The Key of Time                                                                                                    |
 | Tablet XI  | The Key to Above and Below                                                                                         |
