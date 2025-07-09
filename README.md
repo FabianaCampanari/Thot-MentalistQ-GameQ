@@ -216,7 +216,7 @@ Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fabi
 
 
 <p align="center"> 
-  <img src="   "/>
+  <img src="https://github.com/user-attachments/assets/88325007-9cc6-4d1c-b861-e5a75910f1c9"/>
 
 
 
