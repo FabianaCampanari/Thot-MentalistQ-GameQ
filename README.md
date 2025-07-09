@@ -310,7 +310,7 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 | Tablet [XII]() | [The Law of Cause and Effect and the Key of Prophecy](https://www.bibliotecapleyades.net/thot/esp_thot_1m.htm#tablet%2012)|
 | Tablet [XIII]() | [The Keys of Life and Death](https://www.bibliotecapleyades.net/thot/esp_thot_1n.htm#tablet%2013)             |
 | Tablet [XIV]() | [Becoming Thrice Great](https://www.bibliotecapleyades.net/thot/esp_thot_1o.htm#tablet%2014)                   |
-| Tablet XV  | Secret of Secrets                                                                                                  |
+| Tablet [XV]()  | [Secret of Secrets](https://www.bibliotecapleyades.net/thot/esp_thot_1p.htm#tablet%2015)                       |
 
 </div>
 
