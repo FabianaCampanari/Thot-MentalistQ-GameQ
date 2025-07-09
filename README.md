@@ -316,6 +316,18 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 
 <b><b><b><b><b><b><b><b><b><b><b><b>
 
+Mantra Tablet [VX]() [Secret of Secrets
+
+### **Pronounce the words of power I give (mentally)**;
+
+#### ***Mekut-El-Shab-El Hale-Sur-Ben-El-Zabrut Zin-Efrim-Quar-El***.
+
+### Relax thy mind and thy body.
+
+### Then be sure your soul will be called....
+
+
+<b><b><b><b><b><b><b><b><b><b><b><b>
 
 ## [Prince EA - Enki - Osiris]() - The Master Geneticist:
 
