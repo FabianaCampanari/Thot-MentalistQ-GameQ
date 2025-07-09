@@ -266,7 +266,7 @@ Though no physical tablets have been found, many consider these writings to be c
 <br><br>
 
 
-##  [Excerpt from the Tablets]():
+[Excerpt from the Tablets]():
 
  "Long ago, in my childhood, I lay beneath the stars in lost Atlantis, dreaming of mysteries far beyond man.  
  A great longing grew within me — to conquer the path to the stars.  
@@ -281,7 +281,7 @@ Though no physical tablets have been found, many consider these writings to be c
 <b><b>
 
 
-## [Thoth Tablets Guide]():
+ [Thoth Tablets Guide]():
 
 
 Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, drawn from the original text. Each tablet unfolds a central theme, offering a glimpse into the timeless hermetic wisdom and profound philosophy attributed to Thoth the Atlantean.
@@ -291,6 +291,8 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 
 
 <div align="center">
+
+<b><b><b>
 
 | [Tablets]()| Titles                                                                                                             |
 |------------|--------------------------------------------------------------------------------------------------------------------|
