@@ -204,10 +204,25 @@ Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fabi
 - **Philosophical Lineage:** Hermeticism — an esoteric tradition rooted in ancient Egypt and Greece.
 
 
-<br><br>
+<b><b>
+<b><b>
+<b><b>
 
 ##  📜 [The Emerald Tablets of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1.htm#menu)
 
+<b><b>
+<b><b>
+<b><b>
+
+
+<p align="center"> 
+  <img src="   "/>
+
+
+
+<b><b>
+<b><b>
+<b><b>
 
 [Overview]():
 
