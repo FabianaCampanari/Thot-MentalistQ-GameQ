@@ -208,39 +208,65 @@ Based on the timeless wisdom of the book [*El Kybalion*](https://github.com/Fabi
 
 ##  📜 [The Emerald Tablets of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1.htm#menu)
 
-Ancient texts said to be authored by **Thoth**, high priest of Atlantis. These tablets contain profound wisdom on consciousness, the cosmos, and the journey of the soul — blending esoteric science, mysticism, and metaphysics.
 
-<br>
+[Overview]():
+
+The Emerald Tablet (Tabula Smaragdina) is a foundational hermetic text attributed to the legendary Hermes Trismegistus, often identified with the Egyptian god **Thoth**, high priest of Atlantis. Ancient traditions claim these tablets hold profound wisdom on consciousness, the cosmos, and the soul’s journey, blending esoteric science, mysticism, and metaphysics.
+
+<br><br>
 
 
-##  Material & Origin
+🗿 [Material & Mythical Origin]():
 
-- Composed of **12 tablets** of **emerald green**, created by **alchemical transmutation**.
-- **Imperishable** and immune to all forms of decay, corrosion, or damage.
-- Engraved in **Ancient Atlantean language**, readable only through attuned consciousness.
-- Tablets are held together by **golden alloy hoops** on a rod of the same substance.
+•	Described as being composed of 12 tablets of emerald green, created by alchemical transmutation.
 
-<br>
+•	Said to be imperishable, immune to all forms of decay, corrosion, or damage.
 
-## 📖 [Translation]():
+•	Engraved in the Ancient Atlantean language, readable only by those with an attuned, elevated consciousness.
 
-- First translated and published in the 1930s by the enigmatic **Dr. Doreal**, founder of the **Brotherhood of the White Temple**.
-- Dr. Doreal divided 10 of the tablets into 13 parts.
-- Tablets XIV and XV are considered **supplements** and appear in his *Interpretation of the Emerald Tablets*.
+•	The tablets are bound together by golden alloy hoops mounted on a rod of the same material.
 
 
 <br><br>
 
 
-##  [Mystical Legacy]():
+📜 [Historical Reality & Discovery]():
 
-Though no original tablets have been found, the texts are considered **channeled material** by many and are integrated into the **modern Corpus Hermeticum**, expanding on the traditional Emerald Tablet attributed to **Hermes Trismegistus (Thoth)**.
+Despite these vivid accounts, no actual emerald tablets have ever been discovered. The tale of a green, inscribed tablet is a legend woven into esoteric traditions. Historically:
+
+•	The earliest known version of what we call the Emerald Tablet is an 8th-century Arabic text, attributed to Jabir ibn Hayyan (Geber).
+
+•	It was translated into Latin around the 12th century, becoming a cornerstone for medieval alchemists and mystics.
 
 
 <br><br>
 
 
-##  Excerpt from the Tablets
+🏛 [Where is it now]() ?
+
+There is no museum on Earth that holds an actual “Emerald Tablet.”
+
+•	The text survives only in medieval and Renaissance manuscripts, housed in libraries such as the Bibliothèque nationale de France, the Vatican Library, and collections across Germany and England.
+
+•	So when people refer to the “Emerald Tablet,” they mean these manuscript copies, not a literal emerald slab.
+
+
+<br><br>
+
+
+📖 [Modern Translations & Mystical Legacy]():
+
+•	In the 1930s, the enigmatic Dr. Doreal, founder of the Brotherhood of the White Temple, claimed to translate and publish teachings from these legendary tablets.
+
+•	Dr. Doreal divided 10 tablets into 13 parts, with Tablets XIV and XV considered supplemental texts included in his Interpretation of the Emerald Tablets.
+
+Though no physical tablets have been found, many consider these writings to be channeled material, woven into the modern Corpus Hermeticum, and expanding on the traditional teachings attributed to Hermes Trismegistus (Thoth).
+
+
+<br><br>
+
+
+##  [Excerpt from the Tablets]():
 
  "Long ago, in my childhood, I lay beneath the stars in lost Atlantis, dreaming of mysteries far beyond man.  
  A great longing grew within me — to conquer the path to the stars.  
@@ -252,8 +278,8 @@ Though no original tablets have been found, the texts are considered **channeled
 
 *Translation and Interpretation by Dr. Doreal*
 
-
 <b><b>
+
 
 ## [Thoth Tablets Guide]():
 
@@ -261,7 +287,7 @@ Though no original tablets have been found, the texts are considered **channeled
 Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, drawn from the original text. Each tablet unfolds a central theme, offering a glimpse into the timeless hermetic wisdom and profound philosophy attributed to Thoth the Atlantean.
 
 
-<b><b><b><b>
+<b><b><b><b><b><b>
 
 
 <div align="center">
@@ -286,7 +312,7 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 
 </div>
 
-<b><b><b><b>
+<b><b><b><b><b><b>
 
 
 ## [Prince EA - Enki - Osiris]() - The Master Geneticist:
