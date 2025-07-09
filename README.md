@@ -308,7 +308,7 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 | Tablet [X]()  | [The Key of Time](https://www.bibliotecapleyades.net/thot/esp_thot_1k.htm#tablet%2010)                          |
 | Tablet [XI]()| [The Key to Above and Below](https://www.bibliotecapleyades.net/thot/esp_thot_1l.htm#tablet%2011)                |
 | Tablet [XII]() | [The Law of Cause and Effect and the Key of Prophecy](https://www.bibliotecapleyades.net/thot/esp_thot_1m.htm#tablet%2012)|
-| Tablet XIII| The Keys of Life and Death                                                                                         |
+| Tablet [XIII]() | [The Keys of Life and Death](https://www.bibliotecapleyades.net/thot/esp_thot_1n.htm#tablet%2013)             |
 | Tablet XIV | Becoming Thrice Great                                                                                              |
 | Tablet XV  | Secret of Secrets                                                                                                  |
 
