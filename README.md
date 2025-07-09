@@ -296,8 +296,8 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 
 | [Tablets]()| Titles                                                                                                             |
 |------------|--------------------------------------------------------------------------------------------------------------------|
-| Tablet I   | [The History of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201)           |
-| Tablet II  | [The Halls of Amenti](https://www.bibliotecapleyades.net/thot/esp_thot_1c.htm#tablet%202)                          |
+| Tablet [I]() | [The History of Thoth the Atlantean](https://www.bibliotecapleyades.net/thot/esp_thot_1b.htm#tablet%201)           |
+| Tablet [II]() | [The Halls of Amenti](https://www.bibliotecapleyades.net/thot/esp_thot_1c.htm#tablet%202)                          |
 | Tablet III | [The Key of Wisdom](https://www.bibliotecapleyades.net/thot/esp_thot_1d.htm#tablet%203)                            |
 | Tablet IV  | [The Space Born](https://www.bibliotecapleyades.net/thot/esp_thot_1e.htm#tablet%204)                               |                               
 | Tablet V   | [The Dweller of Unal](https://www.bibliotecapleyades.net/thot/esp_thot_1f.htm#tablet%205)                          |
@@ -314,12 +314,12 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 
 </div>
 
-<b><b><b><b><b><b>
+<b><b><b><b><b><b><b><b><b><b><b><b>
 
 
 ## [Prince EA - Enki - Osiris]() - The Master Geneticist:
 
-<b><b><b><b>
+<b><b><b><b><b><b>
 
 Enki is a major deity from Sumerian mythology, often associated with wisdom, water, creation, and magic. In various syncretic traditions, he is linked to the Egyptian god Osiris, who symbolizes resurrection, fertility, and the underworld. Enki is known as the god of freshwater and life-giving waters, a benefactor to humanity who taught humans arts, crafts, and civilization. He is portrayed as a wise and benevolent figure, a master of creation and transformation, often acting as a protector and guide for mankind.
 
