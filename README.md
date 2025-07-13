@@ -333,7 +333,7 @@ Here you’ll discover a thoughtfully structured guide to the Tablets of Thoth, 
 <b><b>
 <b><b>
 
-## Mantra Tablet [VX]() [Secret of Secrets
+## Mantra Tablet [VX]() Secret of Secrets
 
 #### **Pronounce the words of power I give (mentally)**;
 
